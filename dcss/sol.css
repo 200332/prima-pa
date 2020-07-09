@@ -1,9 +1,13 @@
 
 body{
-	color: yellow;
+	color: black;
+	background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+	background-color: black;
+	background-color: red;
 }
 p{
-	color: #77bb99;
+	color: #FE7F88;
 	font-family: verdana;
 	font-size: 20px;
+	background-image: none;
 }
