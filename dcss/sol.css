@@ -1,7 +1,7 @@
  @import '/css/estilos.css';
  @import "/css/estilos.css";
  body { color: black }
-body { background-color: fondo6.jpg }
+body { background-color: fondo.jpg }
  p[name^=”mi”] { font-size: 20px }
  p[name$=”mi”] { font-size: 20px }
  p[name*=”mi”] { font-size: 50px }
