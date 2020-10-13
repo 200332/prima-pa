@@ -1,21 +1,21 @@
-body{
-	background-color: orange;
-	color: blue;
 
-	}
 
-	a{
+
+
+
+				background:red;
+				color:blue;
+				}
+			 background: :gray;
+			 color:green;
+			.greenlink:hover{
+			}
+		a:hover{
 		color: blue;
 		text-decoration:none;
-
 		}
-
-		a:hover{
-			 color:green;
-			 background: :gray;
-
-			}
-			.greenlink:hover{
-				color:blue;
-				background:red;
-				}
+	a{
+	background-color: orange;
+	color: blue;
+	}
+body{
